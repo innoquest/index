@@ -1,6 +1,7 @@
 ---
 name: James Lopez
-position: Designer
-image_path: "https://unsplash.it/600/503?image=1062&a=.png"
+position: Developer
+image_path: https://source.unsplash.com/collection/139386/604x604?a=.png
 twitter: CloudCannonApp
+blurb: James spends his weekends watching his favourite NBA team - L.A. Clippers.
 ---

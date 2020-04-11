@@ -1,14 +1,13 @@
 ---
+date: 2016-08-12
 title: The history of marketing
 categories:
   - marketing
-author_staff_member: james
-show_comments: true
+author_staff_member: robin
 ---
-
 The beginnings of digital marketing technology can be traced back to the 1980's, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90's it all became clear.
 
-![Cars](https://unsplash.it/960/600?image=133)
+![Man](https://source.unsplash.com/random/1500x1146)
 
 The history of marketing is to a large extent a product of Internet's history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:
 
@@ -22,11 +21,11 @@ the history of marketing thought, giving theoretical accounts
 marketing history, focusing on the history of marketing practice
 This division parallels the distinction between the history of economic thought and economic history.
 
-![Clock](https://unsplash.it/960/600?image=175)
+![Thai](https://source.unsplash.com/random/1500x1147)
 
 Practitioners of the history of marketing thought note that both practitioners and academics know relatively little about the field.[citation needed] But history has significance for academics because it helps to define the baselines upon which they can recognize change and evolve marketing theory.On the other hand, proponents of marketing history argue that one cannot fully compare the marketing field with economics and hence suggest the impracticality of divorcing theory and practice. First, marketing scholars seldom engage in the practice of marketing as much as economists engage in the development and execution of public policies. Second, business people innovate in the marketing field, and the history of marketing will remain incomplete if one dissociates academia from practitioners.
 
-![Coffee](https://unsplash.it/960/600?image=766)
+![lavender flowers](https://source.unsplash.com/random/1500x1148)
 
 The following sections discuss both approaches to the history of marketing, closing with a debate about the standard chronology of marketing, a widely known hypothesis about the history of marketing, but one that historians in the marketing field have challenged.
 

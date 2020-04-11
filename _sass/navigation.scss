@@ -1,71 +1,47 @@
-.nav-open {
-	header {
-		background: #444;
-		z-index: 10;
-
-		@media #{$mid-point} {
-			background: none;
-		}
+.nav-open nav {
+	border-bottom: 1px dotted rgba(255, 255, 255, .2);
+	padding: 10px 0;
+	a {
+		display: block;
 	}
 
-	nav {
-		margin: 20px 0 0 0;
+	@media #{$mid-point} {
 		border: 0;
+		padding: 0 20px;
 
 		a {
-			display: block;
-		}
-
-		@media #{$mid-point} {
-			border: 0;
-			padding: 0 20px;
-
-			a {
-				display: inline;
-			}
+			display: inline;
 		}
 	}
 }
 
 nav {
 	text-transform: uppercase;
-	font-size: 0.8em;
+	font-size: .8em;
 	width: 100%;
-
-	ul {
-		margin: 0;
-		padding: 0;
-	}
-
-	li {
-		display: block;
-	}
 
 	@media #{$mid-point} {
 		text-align: right;
 		position: absolute;
-		top: 0;
+		top: 13px;
 		right: 0;
 		padding: 0 20px;
-
-		li {
-			display: inline-block;
-		}
 	}
+
 
 	a {
 		margin: 0 3px;
 		padding: 20px 10px;
-		color: rgba(255, 255, 255, 0.8);
-		transition: 0.2s ease-in-out;
+		border-bottom: 1px solid rgba(255,255,255,0);
+		color: rgba(255,255,255,.8);
+		transition: .2s ease-in-out;
 		display: none;
-		font-size: 1rem;
 
 		@media #{$mid-point} {
-			border-bottom: 2px solid rgba(255, 255, 255, 0);
-			display: block;
+			display: inline;
 			padding: 10px;
 		}
+
 
 		&.nav-toggle {
 			display: inline;
@@ -86,13 +62,9 @@ nav {
 	}
 
 	a:hover {
-		color: #fff;
 
-		@media #{$mid-point} {
-			border-bottom: 2px solid rgba(255, 255, 255, 0.6);
-			display: block;
-			padding: 10px;
-		}
+		border-bottom: 1px solid rgba(255,255,255,.3);
+		color: #fff;
 	}
 
 	@media #{$mid-point} {
@@ -110,4 +82,5 @@ nav {
 	a.active {
 		color: #fff;
 	}
+
 }
